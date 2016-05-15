@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.php" server="C:/wamp/www/tienda_insite/" local="130892515729282866" remote="130892515720000000" Dst="2" />
+<file name="alta_usuario.php" server="C:/wamp/www/tienda_insite/" local="130894933174966861" remote="130894933170000000" Dst="2" />
+<file name="alta_exitosa.php" server="C:/wamp/www/tienda_insite/" local="130894929343047688" remote="130894929340000000" Dst="2" />
+<file name="alta_emailrepetido.php" server="C:/wamp/www/tienda_insite/" local="130894929342327647" remote="130894929340000000" Dst="2" />
+<file name="acceso.php" server="C:/wamp/www/tienda_insite/" local="130925352462098313" remote="130925352460000000" Dst="1" />
+<file name="acceso_ok.php" server="C:/wamp/www/tienda_insite/" local="130925323383465110" remote="130925323380000000" Dst="1" />
+<file name="acceso_error.php" server="C:/wamp/www/tienda_insite/" local="130925323373114518" remote="130925323370000000" Dst="1" />
+<file name="borrar.php" server="C:/wamp/www/tienda_insite/" local="130894351395722304" remote="130894351390000000" Dst="2" />
+<file name="usuario_modificar.php" server="C:/wamp/www/tienda_insite/" local="130894997831605010" remote="130894997830000000" Dst="2" />
+<file name="usuario_modificacion_ok.php" server="C:/wamp/www/tienda_insite/" local="130894929343467712" remote="130894929340000000" Dst="2" />
+<file name="usuario_cerrarsesion.php" server="C:/wamp/www/tienda_insite/" local="130894989141707976" remote="130894989140000000" Dst="2" />
+<file name="categoria_ver.php" server="C:/wamp/www/tienda_insite/" local="130925323479550606" remote="130925323470000000" Dst="1" />
+<file name="ver_producto.php" server="C:/wamp/www/tienda_insite/" local="130925336539257579" remote="130925336530000000" Dst="1" />
+<file name="subcategoria_ver.php" server="C:/wamp/www/tienda_insite/" local="130925338687280439" remote="130925338680000000" Dst="1" />
+<file name="carrito_add.php" server="C:/wamp/www/tienda_insite/" local="130924595035472333" remote="130924595030000000" Dst="1" />
+<file name="carrito_lista.php" server="C:/wamp/www/tienda_insite/" local="130925323485740960" remote="130925323480000000" Dst="1" />
+<file name="forma_pago.php" server="C:/wamp/www/tienda_insite/" local="130925323508702273" remote="130925323500000000" Dst="1" />
+<file name="finalizar_compra.php" server="C:/wamp/www/tienda_insite/" local="130925323501921886" remote="130925323500000000" Dst="1" />
+<file name="Eliminar_Compra.php" server="C:/wamp/www/tienda_insite/" local="130925323493501404" remote="130925323490000000" Dst="1" />
+</dwsync>
